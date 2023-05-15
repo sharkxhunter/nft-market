@@ -10,5 +10,4 @@ contract TokenContract is ERC20 {
     _mint(account, amount);
     return true;
   }
-
 }
