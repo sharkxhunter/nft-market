@@ -16,7 +16,6 @@ import MyCollection from './my-collection/my-collection';
 import Navbar from './navbar/navbar';
 import MintToken from './mint-token/mint-token';
 
-
 class App extends Component {
 
   async componentWillMount() {
