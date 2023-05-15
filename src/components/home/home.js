@@ -40,7 +40,6 @@ const Home = () => {
                 <button type="button" onClick={handleClick2} className="btn btn-primary rounded-0 m-3">Create NFTs</button>
             </div>
             </div>
-            
         </div>
         </div>
     )
